@@ -1,5 +1,0 @@
-name: BetterSpigotAPI
-version: '${project.version}'
-main: me.fivevl.betterspigot.BetterSpigot
-api-version: 1.19
-authors: [ 5vl ]
